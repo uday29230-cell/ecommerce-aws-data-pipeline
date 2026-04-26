@@ -149,6 +149,6 @@ Uses the [E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-dat
 
 ## Author
 
-**[Your Name]** — Senior Data Engineer  
+Uday M Patel — Senior Data Engineer  
 AWS | PySpark | Redshift | Airflow | Data Lake Architecture  
 [LinkedIn](#) | [GitHub](#)
